@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/el mehdi belmahboubi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="el mehdi belmahboubi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/el-mehdi-belmahboubi-527a8320a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="el mehdi belmahboubi" height="30" width="40" /></a>
 <a href="https://fb.com/mehdi bel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mehdi bel" height="30" width="40" /></a>
 <a href="https://instagram.com/mehdibelmahboubi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehdibelmahboubi" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/idhem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="idhem" height="30" width="40" /></a>
